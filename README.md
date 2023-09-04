@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adedayo76
+- 👋 Hi, I’m @Adedayo Lawal
 - 👀 I’m interested in .. coding, teaching programming, building applications of any kind
 - 🌱 I’m currently learning ... Javascript, C#,Python, CSS,
 - 💞️ I’m looking to collaborate on ...many projects on any of the languages
